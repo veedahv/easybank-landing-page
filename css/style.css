@@ -179,6 +179,7 @@ footer {
 
     .mockup{
         width: 80%;
+        height: 120%;
         position: absolute;
         right: -90px;
         z-index: 1;
